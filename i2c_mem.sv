@@ -7,7 +7,7 @@
 // Target Devices: Artix-7 AC701
 // Tool Versions: Xilinx Vivado 2023.2
 // Description: Design of i2C Master-Slave with Slave having Memory Depth of 128 bytes
-// 
+// This is the i2C DUT
 //////////////////////////////////////////////////////////////////////////////////
 
 module i2c_mem
